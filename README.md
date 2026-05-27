@@ -1,2 +1,1 @@
-https://www.youtube.com/watch?v=JbgXfw-gohQ I like this
-I don't like Alexander the Great wearing pink clothes I don't like neither what happenned with art but to be honest art sometimes can be mediocre so I don't really care...I'm sorry. There are adjustments, progress or conservation....conservation == playing safe in a world that needs to be saved..conservative politicians don't even try sometimes...we need to save this place and our souls yet too little we do too late...It's sad. Cheer up boys your make-up is running..
+A simple program in swift programming language!
